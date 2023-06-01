@@ -199,20 +199,18 @@ By @{} """
   └◌───❀*̥˚───◌───❀*̥˚┘
 
     IMDB_TEMPLATE_TXT = """
-<b>🎬 Title : {title}</b>
-<b>🎭 Genres : {genres}</b>
-<b>📆 Year : {year}</b>
-<b>🌟 Rating :  {rating}/10</b>
-<b>🔊 Languages : {languages}</b>
-<b>👨‍💼 Dɪʀᴇᴄᴛᴏʀ : {director}</b>
-<b>👨🏻‍🦱 Pʀᴏᴅᴜᴄᴇʀ : {producer}</b>
-<b>📑 wʀɪᴛᴇʀ : {writer}</b>
-<b>📀 RunTime : {runtime} Minutes</b>
-<b>📆 Release Info : {release_date}</b>
-<b>🎛 Countries : {countries}</b>
-<b>📓 Sᴛᴏʀy : {plot}</b>
+🎬 <b>Title : {title}</b>
+🎭 <b>Genres : {genres}</b>
+📆 <b>Year : {year}</b>
+🌟 <b>Rating :  {rating}/10</b>
+🀄 <b>Languages : {languages}</b>
+🕒 <b>RunTime : {runtime} Minutes</b>
 
-<b>⚡️Request by⚡️ : </b> <a href='tg://user?id={from_user.id}'><b>{}</b></a>\n"""
+<b>⚡️Request by⚡️ : </b> <a href='tg://user?id={from_user.id}'><b>{}</b></a>\n
+𝙎𝙀𝙇𝙀𝘾𝙏 𝙔𝙊𝙐𝙍 𝙁𝙄𝙇𝙀 👇
+𝑻𝒊𝒑 :<b>Click Languag Button And Choose Your Languages  
+
+"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
