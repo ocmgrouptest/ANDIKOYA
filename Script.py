@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, You can't use me bro, I was only made for <a href='https://t.me/OceanCrew_Movies'>Ocean Crew Movies</a> 😍</b>"""
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, You Can't Use Me Bro😸, I was only made for <a href='https://t.me/OceanCrew_Movies'>Ocean Crew Movies</a> </b>"""
 
     HELP_TXT = """ᴍʏ ʜᴇʟᴘ ғᴇᴀᴛᴜʀᴇs.."""
 
@@ -190,7 +190,13 @@ By @{} """
 𝗠𝘀𝗴 <b>: {}</b>"""
 
     CAPTION = """
-<b>👋 ʜᴇʏ, {}\n\n {file_caption} \n\n @MALAYALIFREAKSALL</b>"""
+<b>\n\n {file_name} \n\n </b>
+<b>
+<b>»»———-{file_size}———-««</b>
+<b>
+  ┌──❀*̥˚──◌──◌──❀*̥˚─┐
+   @OceanCrew_Movies
+  └◌───❀*̥˚───◌───❀*̥˚┘
 
     IMDB_TEMPLATE_TXT = """
 <b>🎬 Title : {title}</b>
