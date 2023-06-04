@@ -208,7 +208,7 @@ By @{} """
 <b>📀 RunTime : {runtime} Minutes</b>
 <b>📆 Release Info : {release_date}</b>
 
-<b>{}</b>𝙎𝙀𝙇𝙀𝘾𝙏 𝙔𝙊𝙐𝙍 𝙁𝙄𝙇𝙀  👇
+<b>{mention}</b>𝙎𝙀𝙇𝙀𝘾𝙏 𝙔𝙊𝙐𝙍 𝙁𝙄𝙇𝙀  👇
 
 𝑻𝒊𝒑 :<b>Click Languag Button And Choose Your Languages</b>"""
 
