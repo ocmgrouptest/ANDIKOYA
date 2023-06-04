@@ -10,7 +10,7 @@ import logging
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.ERROR)
 from info import ADMINS
-fromn script import IMDB_TEMPLATE_TEXT
+fromn Script import IMDB_TEMPLATE_TEXT
 
 @Client.on_message(filters.command('id') & filters.user(ADMINS))
 async def showid(client, message):
