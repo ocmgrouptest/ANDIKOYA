@@ -207,7 +207,7 @@ By @{} """
 🀄 <b>Languages : {languages}</b>
 🕒 <b>RunTime : {runtime} Minutes</b>
 
-𝙎𝙀𝙇𝙀𝘾𝙏 𝙔𝙊𝙐𝙍 𝙁𝙄𝙇𝙀  👇
+<b>{}</b>𝙎𝙀𝙇𝙀𝘾𝙏 𝙔𝙊𝙐𝙍 𝙁𝙄𝙇𝙀  👇
 
 𝑻𝒊𝒑 :<b>Click Languag Button And Choose Your Languages</b>"""
 
