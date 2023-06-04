@@ -202,15 +202,16 @@ By @{} """
     IMDB_TEMPLATE_TXT = """
 🎬 <b>Title : {title}</b>
 🎭 <b>Genres : {genres}</b>
-
 📆 <b>Year : {year}</b>
 🌟 <b>Rating :  {rating}/10</b>
 🀄 <b>Languages : {languages}</b>
-🕒 <b>RunTime : {runtime}</b> 
+🕒 <b>RunTime : {runtime} Minutes</b>
 
-<b>⚡Request by⚡ : </b> <a href='tg://user?id={from_user.id}'><b>{}</b></a>\n
 𝙎𝙀𝙇𝙀𝘾𝙏 𝙔𝙊𝙐𝙍 𝙁𝙄𝙇𝙀  👇
+
 𝑻𝒊𝒑 :<b>Click Languag Button And Choose Your Languages</b>"""
+
+
 
 
     
