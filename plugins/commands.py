@@ -803,7 +803,7 @@ async def shortlink(bot, message):
     await reply.edit_text(f"<b>Sᴜᴄᴄᴇssғᴜʟʟʏ ᴀᴅᴅᴇᴅ sʜᴏʀᴛʟɪɴᴋ API ғᴏʀ {title}.\n\nCᴜʀʀᴇɴᴛ Sʜᴏʀᴛʟɪɴᴋ Wᴇʙsɪᴛᴇ: <code>{shortlink_url}</code>\nCᴜʀʀᴇɴᴛ API: <code>{api}</code></b>")
     
     @client.on_message(filters.command("test"))
-    async def test(bot, message:)
+    async def test(bot, message):
         await testtext.reply_text('command working ')
     
 
