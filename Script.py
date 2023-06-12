@@ -200,17 +200,16 @@ By @{} """
 """
 
     IMDB_TEMPLATE_TXT = """
-<b>🎬 Title : {title}</b>
-<b>🎭 Genres : {genres}</b>
-<b>📆 Year : {year}</b>
-<b>🌟 Rating :  {rating}/10</b>
-<b>🔊 Languages : {languages}</b>
-<b>📀 RunTime : {runtime} Minutes</b>
-<b>📆 Release Info : {release_date}</b>
-
-<b>{mention}</b>𝙎𝙀𝙇𝙀𝘾𝙏 𝙔𝙊𝙐𝙍 𝙁𝙄𝙇𝙀  👇
-
-𝑻𝒊𝒑 :<b>Click Languag Button And Choose Your Languages</b>"""
+🏷 <b>Title: <a href={url}>{title}</a> </b> 
+ 🎭 <b>Genres: {genres}</b> 
+ 📆 <b>Year: <a href={url}/releaseinfo>{year}</b> 
+ 🌟 <b>Rating: <a href={url}/ratings>{rating}</a> / 10</b> 
+ <b>🔊 Languages : {languages}</b> 
+ <b>📀 RunTime : {runtime} Minutes</b> 
+  
+ (𝑻𝒊𝒑 :<b>Click Languag Button And Choose Your Languages</b>) 
+  
+{}𝙎𝙀𝙇𝙀𝘾𝙏 𝙔𝙊𝙐𝙍 𝙁𝙄𝙇𝙀  👇"""
 
 
 
